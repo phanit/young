@@ -71,11 +71,12 @@
             "price": null,
             "rmb_price": null,
             "value": "20509:28318",
-            "value_id": null
+            "value_id": "28318"
           }
         ]
       },
       {
+        "pid": "1627207",
         "name": "颜色分类",
         "values": [
           {
@@ -84,7 +85,7 @@
             "price": null,
             "rmb_price": null,
             "value": "1627207:4807735606",
-            "value_id": null
+            "value_id": "4807735606"
           },
           {
             "image_url": "https://img.alicdn.com/imgextra/i4/2925492262/O1CN01rBLFfT1Sa2TRFBygH_!!2925492262.jpg",
@@ -92,7 +93,7 @@
             "price": null,
             "rmb_price": null,
             "value": "1627207:6475050864",
-            "value_id": null
+            "value_id": "6475050864"
           }
         ]
       }
